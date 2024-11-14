@@ -13,10 +13,10 @@ body {
 .header {
     font-family: 'Poppins', sans-serif;
     position: relative;
-    /* height: 90vh; */
+
     min-height: 550px;
-    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url();
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url();
+    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(IMG_20230529_063606.jpg);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(IMG_20230529_063606.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
